@@ -1,0 +1,7 @@
+16:35:21.447 [main] INFO  EndtoEnd.Homepage - Driver is initialized
+16:35:36.824 [main] INFO  EndtoEnd.Homepage - Opening a browser
+16:35:52.201 [main] INFO  EndtoEnd.Homepage - Sending a usename and password
+16:36:08.787 [main] INFO  EndtoEnd.ValidateNavigationBar - Check if element is displayed
+16:36:23.232 [main] INFO  EndtoEnd.ValidateTitle - Sucessfully validated title
+17:37:16.497 [main] INFO  EndtoEnd.Homepage - Driver is initialized
+17:37:27.489 [main] INFO  EndtoEnd.Homepage - Opening a browser
