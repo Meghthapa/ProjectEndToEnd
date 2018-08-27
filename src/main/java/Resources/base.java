@@ -19,6 +19,7 @@ import org.openqa.selenium.io.FileHandler;
 public class base {
 	public static WebDriver d;
 	public static Properties prop;
+	
 	public WebDriver initializeDriver() throws IOException{
 		
 		prop = new Properties();

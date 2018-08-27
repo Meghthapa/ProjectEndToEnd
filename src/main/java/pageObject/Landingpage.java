@@ -5,7 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class Landingpage {
-	
 	public WebDriver d;
 	public Landingpage(WebDriver d){
 		this.d=d;
